@@ -1,0 +1,63 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.about {
+    margin-bottom: 20px;
+}
+
+.content {
+    margin-left: 50px;
+    margin-top: 50px;
+    font-family: Cardo, serif;
+}
+
+h4,
+h3 {
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+}
+
+a:link,
+a:active,
+a:visited {
+    color: #404040;
+    text-decoration: none;
+}
+
+a:hover {
+    color: #000000;
+    text-decoration: none;
+}
+
+.back {
+    display: block;
+    margin-top: 1rem;
+    margin-bottom: 10px;
+}
+
+.exhibition-name {
+    margin-bottom: 10px;
+}
+
+.exhibitions {
+    margin-bottom: 20px;
+}
+
+span {
+    padding-left: 10px;
+}
+
+footer {
+    bottom: 0;
+    width: 100%;
+    font-size: 0.80em;
+    text-align: left;
+    padding: 10px 0 10px 0;
+}
