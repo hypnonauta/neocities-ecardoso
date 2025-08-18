@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+.content {
+    margin-left: 50px;
+    margin-top: 50px;
+}
+
+h4, h3 {
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
+
+ul{
+    list-style: none;
+    padding: 0;  
+}
+
+a:link, a:active, a:visited {
+    color: #404040;
+    text-decoration: none;
+}
+    
+a:hover {
+    color: #000000;
+    text-decoration: none;
+}
+
+.back {
+    display: block;
+    margin-top: 1rem;
+    margin-bottom: 10px;
+}
+
+.list {
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+footer {
+    bottom: 0;
+    width: 100%;
+    font-size: 0.80em;
+    text-align: left;
+    padding: 10px 0 10px 0;
+}
